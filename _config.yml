@@ -1,6 +1,6 @@
-title:            Site Title
-description:      Describe your website here.
-logo:             site-logo.png
+title:            brianaguirre
+description:      Personal site and portfolio page.
+logo:             avatar.png
 disqus_shortname: 
 search:           true
 #Change url to your domain. Leave localhost server or blank when working locally.
@@ -8,16 +8,16 @@ url:              http://brianaguirre.github.io
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
-  email:          you@email.com
+  name:           Brian Aguirre
+  avatar:         avatar.jpg
+  email:          brian.n.aguirre@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:        brianaguirre
   facebook:       
-  github:         
+  github:         brianaguirre
   stackexchange:  
   linkedin:       
-  instagram:      
+  instagram:      briannaguirre
   flickr:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
@@ -36,11 +36,11 @@ links:
     url: /about
   - title: Articles
     url: /articles
-  - title: Theme Setup
-    url: /theme-setup
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+  #- title: Theme Setup
+  #  url: /theme-setup
+  #- title: Made Mistakes
+  #  url: http://mademistakes.com
+  #  external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
