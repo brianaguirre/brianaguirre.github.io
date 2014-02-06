@@ -10,9 +10,10 @@ image:
   creditlink: http://mademistakes.com
 ---
 
-Hi, my name is Brian N. Aguirre Parada. I am a <strong>Math</strong> and <strong>Computer Science</strong> major at Northern Virginia Community College. I have been accepted to <strong>UVA's School of Engineering</strong>, but I am currently applying to a couple of other schools in California.</p>
-<p>Currently, in addition to have been the founder of the first Computer Science club at NOVA, I am working on founding a non-profit that specilizes in helping other immigrants attend college by founding scholarships and grants that are not legal-status based.
-Here is a <a href="resume.pdf"> <strong>resume </strong></a> for my recent work.</p>
+Hi, my name is Brian N. Aguirre Parada. I am a <strong>Math</strong> and <strong>Computer Science</strong> major at Northern Virginia Community College. I have been accepted to [**UVA's School of Engineering**], but I am currently applying to a couple of other schools in California.
+
+Currently, in addition to have been the founder of the first Computer Science club at NOVA, I am working on founding a non-profit that specilizes in helping other immigrants attend college by founding scholarships and grants that are not legal-status based.
+Here is a <a href="resume.pdf"> <strong>resume</strong></a> for my recent work.
 
 
 ## Some facts about me:
