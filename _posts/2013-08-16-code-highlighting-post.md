@@ -6,8 +6,8 @@ category: articles
 tags: [sample post, code, highlighting]
 image:
   feature: im3.jpg
-  credit: Michael Rose
-  creditlink: http://mademistakes.com
+  credit:
+  creditlink:
 comments: true  
 ---
 
