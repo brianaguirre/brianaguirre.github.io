@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About the Jekyll Theme
-tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
+title: About Brian N Aguirre
+tags: [brian, about, aguirre, minimal, minimalism, responsive]
 modified: 2013-09-13
 image:
   feature: so-simple-sample-image-4.jpg
@@ -10,24 +10,20 @@ image:
   creditlink: http://mademistakes.com
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes).
+Hi, my name is Brian N. Aguirre Parada. I am a *Math* and <*Computer Science* major at Northern Virginia Community College. I have been accepted to **UVA's School of Engineering**, but I am currently applying to a couple of other schools in California.
+
+Currently, in addition to have been the founder of the first Computer Science club at NOVA, I am working on founding a non-profit that specilizes in helping other immigrants attend college by founding scholarships and grants that are not legal-status based.
+Here is a <a href="{{ site.url}}/resume.pdf"> *resume*</a> for my recent work.
+
 
 ## Some facts about me:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations. 
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Disqus comments if you choose to enable.
-* Simple and clear permalink structure[^1].
-* Tags for [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) for a better social sharing experience.
-* Vanilla [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting](http://mmistakes.github.io/articles/so-simple-theme/code-highlighting-post/) to make your code examples look snazzy.
-* Simple search that overlays results based on post title.
-* [Grunt build script]({{ site.url }}/theme-setup/index.html#theme-development) for easier theme development.
-* [Sitemap](https://github.com/mmistakes/so-simple-theme/blob/master/sitemap.xml) for search engines
+I got married at the age of 18.
 
-<a markdown="0" href="{{ site.url }}/resume.pdf" class="btn">Install Minimal Mistakes Theme</a>
+I read math text books for fun.
 
-[^1]: Example: *domain.com/category-name/post-title*
+I run and bike almost every day.
+
+I speak fluent Spanish, proficient French and taught myself basic Italian.
+
+I enjoy memorizing city maps.
