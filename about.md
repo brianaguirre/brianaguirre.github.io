@@ -5,8 +5,8 @@ title: About Brian N Aguirre
 tags: [brian, about, aguirre, minimal, minimalism, responsive]
 modified: 2013-09-13
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: Michael Rose
+  feature: im2.jpg
+  credit:
   creditlink: http://mademistakes.com
 ---
 
