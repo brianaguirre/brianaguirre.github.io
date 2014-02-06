@@ -5,7 +5,7 @@ description: "Demo post displaying the various ways of highlighting code in Mark
 category: articles
 tags: [sample post, code, highlighting]
 image:
-  feature: im3.jpg
+  feature: im6.jpg
   credit:
   creditlink:
 comments: true  
